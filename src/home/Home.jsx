@@ -8,6 +8,9 @@ const Home = () => {
 		<div className="home">
 			
 			<Navbar />
+               <img 
+               width="100%"
+               src="https://burst.shopifycdn.com/photos/asphalt-highway.jpg?width=925&format=pjpg&exif=1&iptc=1" alt="" />
 			
 		</div>
 	);
