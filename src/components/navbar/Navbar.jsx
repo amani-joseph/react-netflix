@@ -3,7 +3,6 @@ import { useState } from "react";
 import {
 	ArrowDropDown,
 	Notifications,
-	NotificationsActiveOutlined,
 	Search,
 } from "@material-ui/icons";
 import React from "react";

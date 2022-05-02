@@ -1,17 +1,19 @@
 /** @format */
 import "./Home.scss";
 import React from "react";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/navbar/Navbar";
+import { Featured } from "../components/featured/Featured";
+import List from "../components/list/List";
 
 const Home = () => {
 	return (
 		<div className="home">
-			
 			<Navbar />
-               <img 
-               width="100%"
-               src="https://burst.shopifycdn.com/photos/asphalt-highway.jpg?width=925&format=pjpg&exif=1&iptc=1" alt="" />
-			
+			<Featured type="movies" />
+			<List />
+			<List />
+			<List />
+			<List />
 		</div>
 	);
 };
