@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+#Netflix React Clone
+
+## Screeshots
+<img src="src/Assets/1.png" />
+<img src="src/Assets/2.png" />
+<img src="src/Assets/3.png" />
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
